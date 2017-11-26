@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="file-open">C:/Users/Hanning/Pictures/document-open.png</file>
+        <file alias="file-save">C:/Users/Hanning/Pictures/file-save.png</file>
+    </qresource>
+</RCC>
